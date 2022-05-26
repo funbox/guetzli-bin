@@ -4,6 +4,8 @@
 
 You probably want [`imagemin-guetzli`](https://github.com/imagemin/imagemin-guetzli) instead.
 
+**Note! This is a fork of [guetzli-bin](https://github.com/imagemin/guetzli-bin) repo that we need to make [Optimizt](https://github.com/funbox/optimizt) work [right](https://github.com/funbox/optimizt/issues/48). The fork will probably be removed after [guetzli-bin#18](https://github.com/imagemin/guetzli-bin/pull/18) merge.**
+
 
 ## Install
 
